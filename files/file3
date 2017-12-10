@@ -1,0 +1,11 @@
+# Comment here
+A + B -> C: 0.1
+# Comment there
+B + C <=> 2 D: 0.2, 0.5 # <-- here
+C <- D: 0.4
+<- D: 0.2
+-> D: 1
+
+D: 560
+A: 10
+B: 1
